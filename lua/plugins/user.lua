@@ -1,3 +1,9 @@
+vim.opt.guifont = "JetBrainsMono Nerd Font:h12"
+vim.o.guifont = "JetBrainsMono Nerd Font:h12"
+-- vim.g.neovide_transparency = 0.9
+-- vim.g.neovide_cursor_animation_length = 0.02
+-- vim.g.neovide_scroll_animation_length = 0.1
+
 if true then return {} end -- WARN: REMOVE THIS LINE TO ACTIVATE THIS FILE
 
 -- You can also add or configure plugins by creating files in this `plugins/` folder
